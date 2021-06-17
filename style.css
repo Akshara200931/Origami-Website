@@ -1,0 +1,36 @@
+.header{
+    display:flex;
+    justify-content:space-between;
+    border: solid;
+background-color: grey;
+    
+    
+
+}
+
+
+
+.menu{
+padding-top:20px;
+border-bottom:solid
+
+}
+
+
+.b{
+margin-bottom:500px
+}
+
+p{
+    font-style: italic;
+    font-size:larger;
+
+    font-family: cursive;
+}
+
+li{
+font-style: oblique;
+font-size:large;
+font-family:'Lucida Sans';
+}
+
